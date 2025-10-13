@@ -13513,3 +13513,6 @@ table.tbl-shopping-cart>tfoot>tr>th {
 .bg-gray{
     background-color: #edf0f5;
 }
+.products h3{
+    font-size: 19px;
+}
